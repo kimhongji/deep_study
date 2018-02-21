@@ -1,0 +1,8 @@
+http://pythonstudy.xyz/python/article/402-numpy-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
+#numpy 예시
+
+http://people.sc.fsu.edu/~jburkardt/datasets/regression/regression.html
+#linear regression data set
+
+https://www.lucypark.kr/courses/2015-dm/multiple-linear-regression.html#simple-linear-regression-slr
+#diabetes 에대한 설명. multi 로 바꾸는 예시 
